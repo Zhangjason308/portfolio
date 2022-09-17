@@ -1,13 +1,13 @@
 import React from 'react'
 import './Project.css'
-import space from '../../assets/space_background.jpg'
 import sc from '../../assets/Screen Shot 2022-09-13 at 3.37.48 PM.png'
+import sc2 from '../../assets/sorting visualizer.png'
 
 const data = [
-  {id: 1, image: sc, title: 'Website Portfolio', github: "https://github.com/Zhangjason308/Zhangjason308.github.io", live: "https://Zhangjason308.github.io"}
-  ,{id: 2, image: space, title: 'Daily Dashboard', github: "https://github.com/Zhangjason308"}
-
+  {id: 1, image: sc, title: 'Website Portfolio', github: "https://github.com/Zhangjason308/Zhangjason308.github.io", live: "#"}
+  ,{id: 2, image: sc2, title: 'Sorting Algorithm Visualizer', github: "https://github.com/Zhangjason308/sorting-visualizer", live:"https://Zhangjason308.github.io/sorting-visualizer"}
 ]
+
 
 const Project = () => {
   return (
