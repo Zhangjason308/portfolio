@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.68e63018.css",
-    "main.js": "/portfolio/static/js/main.34e7a75a.js",
-    "static/media/ME2.jpg": "/portfolio/static/media/ME2.3739b72bcbd15ef919a9.jpg",
+    "main.css": "/portfolio/static/css/main.61de2063.css",
+    "main.js": "/portfolio/static/js/main.04b449a2.js",
+    "static/media/IMG_6739.jpg": "/portfolio/static/media/IMG_6739.cda2273875760451a2e3.jpg",
+    "static/media/ImageAi.png": "/portfolio/static/media/ImageAi.72d9d549cda6f30c3556.png",
     "static/media/Screen Shot 2022-09-13 at 3.37.48 PM.png": "/portfolio/static/media/Screen Shot 2022-09-13 at 3.37.48 PM.a357755581b65c30d526.png",
     "static/media/Jason Zhang Resume.pdf": "/portfolio/static/media/Jason Zhang Resume.b656f31b5d4679a3cc96.pdf",
     "index.html": "/portfolio/index.html",
-    "main.68e63018.css.map": "/portfolio/static/css/main.68e63018.css.map",
-    "main.34e7a75a.js.map": "/portfolio/static/js/main.34e7a75a.js.map"
+    "main.61de2063.css.map": "/portfolio/static/css/main.61de2063.css.map",
+    "main.04b449a2.js.map": "/portfolio/static/js/main.04b449a2.js.map"
   },
   "entrypoints": [
-    "static/css/main.68e63018.css",
-    "static/js/main.34e7a75a.js"
+    "static/css/main.61de2063.css",
+    "static/js/main.04b449a2.js"
   ]
 }
