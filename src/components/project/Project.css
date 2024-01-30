@@ -22,6 +22,7 @@
 }
 
 .project__item-image {
+    max-height: 275px;
     border-radius: 1.8rem;
     overflow: hidden;
 }
